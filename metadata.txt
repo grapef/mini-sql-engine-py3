@@ -1,0 +1,6 @@
+<begin_table>
+employees
+id
+dept
+salary
+<end_table>
