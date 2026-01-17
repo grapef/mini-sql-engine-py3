@@ -18,7 +18,7 @@ Following cases of query processing are handled as of now.
 
 ## Files
 - ```mini_sql.py```: Main engine
-- ```metadata.txt```: Table/column metadata for the bundled datasets (`employees.csv`, `large_special.csv`)
+- ```metadata.txt```: Table/column metadata for the bundled datasets (`employees.csv`)
 - ```samplerun.py```: Simple sample runner demonstrating SELECT and WHERE queries on `employees.csv`
 - ```mini_sql.sh```: Helper to install deps and run with `python3`
 - ```instructions.md```: Brief usage notes
